@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Protocol/">
+    <Project Path="src/Protocol/CSharpSense.Protocol.csproj" />
+  </Folder>
+  <Folder Name="/src/Server/">
+    <Project Path="src/Server/CSharpSense.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/Protocol.Tests/">
+    <Project Path="tests/Protocol.Tests/CSharpSense.Protocol.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tests/Server.Tests/">
+    <Project Path="tests/Server.Tests/CSharpSense.Server.Tests.csproj" />
+  </Folder>
+</Solution>

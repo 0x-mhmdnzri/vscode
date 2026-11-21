@@ -1,0 +1,12 @@
+bin/
+obj/
+out/
+*.user
+.vs/
+.vscode/settings.json
+node_modules/
+*.vsix
+*.nupkg
+client/server/
+eval/
+data/knowledge.json
